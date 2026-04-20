@@ -27,3 +27,11 @@ target/
 /guix-build-*
 
 /ci/scratch/
+
+# Claude Code
+/.claude/
+/.cache/
+
+# IDE
+/.idea/
+/compile_commands.json
